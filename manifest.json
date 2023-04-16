@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Privacy Cleaner",
+  "version": "1.0",
+  "description": "Quickly access privacy settings for popular services.",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html",
+    "default_title": "Privacy Cleaner"
+  },
+  "permissions": ["tabs"]
+}
